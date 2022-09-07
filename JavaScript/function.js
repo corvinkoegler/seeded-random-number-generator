@@ -10,4 +10,4 @@ function* pseudoRandom(seed) {
 };
 
 // usage
-// let generator = pseudoRandom(1); // any number between 1 and 999999999999999 works fine.
+// let generator = pseudoRandom(1); // any number between 1 and 999999999999999 works.
