@@ -1,4 +1,4 @@
-# pseudorandom-number-generator
+# seeded-random-number-generator
 
 This vanilla JS-Class is inteded to be used like `Math.random()` but provides controll over the used seed.
 
