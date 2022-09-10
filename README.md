@@ -2,7 +2,7 @@
 
 This vanilla JS-Class is inteded to be used like `Math.random()` but provides controll over the used seed.
 
-Just like `Math.random()` this class should **NOT** be used for cryptographically secure random numbers. The _seed_ can be used to rectreate any operations executed.
+Just like `Math.random()` this class should **NOT** be used for cryptographically secure random numbers. The _seed_ can be used to recreate any operations executed.
 
 > Note: Math.random() does not provide cryptographically secure random numbers. Do not use them for anything related to security. Use the Web Crypto API instead, and more precisely the window.crypto.getRandomValues() method. **[https://developer.mozilla.org/](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)**
 
